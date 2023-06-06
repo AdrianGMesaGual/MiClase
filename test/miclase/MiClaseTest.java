@@ -11,6 +11,7 @@ import static org.junit.Assert.*;
 /**
  *
  * @author adriaan Mesa Gual
+ * esta versión cambia
  */
 public class MiClaseTest {
     
