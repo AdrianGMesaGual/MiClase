@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author adria
+ * @author adriaan Mesa Gual
  */
 public class MiClaseTest {
     
